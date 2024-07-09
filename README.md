@@ -8,7 +8,7 @@
 
 > [!WARNING]
 > 
-> Los componentes, como la CPU y la GPU, tienen funciones distintas que los hacen independientes en teoría. En la práctica, especialmente en juegos, necesitan trabajar juntos para obtener buen rendimiento. Es como un informático que es eficiente pero tiene ayudantes lentos; pero aunque el trabajo en equipo no sea óptimo, no significa que no funcionará, simplemente trabajarán más lentamente y se obtendrá menos rendimiento.
+> Los componentes, como la CPU y la GPU, tienen funciones distintas que los hacen independientes en teoría. En la práctica, especialmente en juegos, necesitan trabajar juntos para obtener buen rendimiento. **Es como un informático que es eficiente pero tiene ayudantes lentos; pero aunque el trabajo en equipo no sea óptimo, no significa que no funcionará, simplemente trabajarán más lentamente y se obtendrá menos rendimiento.**
 > 
 > Es importante aclarar esto porque algunas personas confunden independencia con trabajo conjunto, pensando erróneamente que solo funcionan juntos.
 > 
