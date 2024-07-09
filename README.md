@@ -56,7 +56,60 @@ Estas herramientas están diseñadas para mejorar la cooperación entre componen
 
 - Si tienes un PC ya armado y quieres actualizarlo con componentes variados, es probable que experimentes algún cuello de botella. Esto no es algo grave; simplemente significa que tendrás menos FPS (fotogramas por segundo) y menor rendimiento general. No te impedirá usar el PC, solo que no rendirá al 100%.
 
-- Si deseas que todo funcione al máximo rendimiento, es importante planificar bien las compras de los componentes y asegurarse de que sean compatibles entre sí desde el principio.
+- Si deseas que todo funcione al máximo rendimiento, es importante planificar bien las compras de los componentes y asegurarte de que sean compatibles entre sí desde el principio.
+
+> [!TIP]
+> 
+> ## Equilibración de Componentes 📊
+> 
+> ### Placa Base
+> 
+> - **Compatibilidad con el Procesador y el Chipset:** Verifica que la placa base sea compatible con el socket del procesador que has seleccionado. Además, presta atención al chipset de la placa base, ya que determina muchas características y funcionalidades adicionales del sistema, como la velocidad de transferencia de datos entre los componentes y la compatibilidad con tecnologías específicas.
+> - **Características y Conectividad:** Revisa las características detalladas como la cantidad y tipo de puertos USB, HDMI, PCI, entre otros. Asegúrate de que estos puertos sean compatibles con los dispositivos y periféricos que planeas utilizar. Descarta opciones obsoletas como puertos VGA u otros si no los necesitas.
+> - **Frecuencia Máxima de la Memoria:** Verifica la frecuencia máxima de la memoria RAM que la placa base soporta. Esto asegura que puedas aprovechar al máximo el rendimiento de la memoria RAM instalada.
+> - **Ancho de Banda y Tipo de PCI:** Si planeas utilizar una tarjeta gráfica dedicada, verifica que la placa base tenga suficientes ranuras PCI Express (PCIe) y que sean compatibles con la tarjeta gráfica en términos de ancho de banda y tipo. Esto es crucial para garantizar un rendimiento óptimo en aplicaciones gráficamente intensivas.
+> 
+> ### Procesador
+> 
+> - **Compatibilidad con la Placa Base:** Verifica que el procesador sea compatible con el socket de la placa base. El socket es el tipo de conexión física que permite al procesador comunicarse con la placa base y otros componentes.
+> - **Frecuencia y Núcleos:** La frecuencia de reloj y el número de núcleos determinan la velocidad y la capacidad multitarea del procesador. Una frecuencia más alta y más núcleos generalmente significan un rendimiento mejorado, especialmente en tareas que requieren mucho cálculo.
+> - **Consumo de Energía y Refrigeración:** Considera el consumo de energía del procesador y asegúrate de que la fuente de alimentación y la solución de refrigeración sean adecuadas. Algunos procesadores más potentes pueden requerir refrigeración más robusta para mantener temperaturas óptimas de funcionamiento.
+> - **Uso Previsto:** Evalúa para qué tipo de aplicaciones y juegos planeas utilizar el PC. Algunas aplicaciones pueden beneficiarse más de procesadores con alto rendimiento mononúcleo, mientras que otras aprovechan mejor varios núcleos.
+> - **Compatibilidad con la Memoria RAM:** Verifica que el procesador sea compatible con la frecuencia máxima de la memoria RAM soportada por la placa base. Esto garantiza un rendimiento óptimo al aprovechar la velocidad de acceso a la memoria.
+> 
+> ### Memoria RAM
+> 
+> - **Frecuencia y Latencia:** Asegúrate de que la frecuencia máxima sea compatible con la placa base y el procesador. Verifica la latencia, que se especifica generalmente como CL (CAS Latency) en las especificaciones del fabricante. Una latencia baja contribuye a optimizar el rendimiento del sistema.
+> - **Configuración de Dual Channel:** Se recomienda utilizar módulos idénticos para mejorar la lectura y escritura de la memoria, aprovechando así mejor el dual channel y mejorando el rendimiento global del sistema.
+> 
+> ### Tarjeta Gráfica
+> 
+> - Verifica la compatibilidad con la placa base, los puertos PCI, el ancho de banda y la frecuencia del procesador.
+> - Asegúrate de que los puertos de salida de la tarjeta gráfica sean compatibles con los puertos de entrada del monitor.
+> - Verifica que los Hz (frecuencia de actualización) soportados por el monitor sean compatibles con los Hz que puede generar la tarjeta gráfica para obtener el mejor rendimiento visual posible.
+> 
+> ### Monitor
+> 
+> - Es recomendable seleccionar el monitor al final del proceso, asegurándose de que refleje el equilibrio y la compatibilidad de los componentes elegidos para obtener el mejor rendimiento posible de tu PC.
+> - Verifica que el monitor sea compatible con la tarjeta gráfica y la placa base.
+> - Asegúrate de que los puertos del monitor (como HDMI, DisplayPort) sean compatibles con los puertos de la tarjeta gráfica y la placa base.
+> - Confirma que los Hz (frecuencia de actualización) del monitor sean adecuados para las capacidades de la tarjeta gráfica, asegurando una experiencia visual fluida y sin problemas.
+> 
+> ### Fuente de Alimentación
+> 
+> - **Consumo Total de Energía:** Calcula el consumo total de todos los componentes del sistema, incluyendo el procesador, la tarjeta gráfica, la memoria RAM, los dispositivos de almacenamiento, los ventiladores y otros dispositivos conectados. Asegúrate de tener en cuenta cualquier componente adicional que planees agregar en el futuro.
+> - **Potencia Recomendada:** Generalmente, se recomienda una fuente de alimentación con una capacidad de entre 600W y 700W para sistemas de gama media a alta, dependiendo de los componentes específicos y de si se utiliza refrigeración líquida u otros dispositivos de alto consumo energético.
+> 
+> ### Gabinete
+> 
+> - El tamaño y tipo del gabinete deben ser adecuados para todos los componentes.
+> - Asegúrate de que tenga suficiente espacio y soporte para la placa base, tarjeta gráfica, fuente de alimentación y otros dispositivos.
+> - Verifica que tenga espacio para colocar varios ventiladores, con recomendación de ventiladores de entrada de aire en el frontal y de salida en la parte trasera para un flujo de aire óptimo.
+> - Si planeas utilizar refrigeración líquida (tubo o AIO), asegúrate de que haya suficiente espacio disponible.
+> - Considera el tamaño del disipador de calor del procesador y otros componentes que necesiten espacio adicional.
+> - Es recomendable seleccionar el gabinete al final del proceso de selección de componentes para asegurarte de que todo encaje correctamente y que haya un flujo de aire fluido para mantener temperaturas óptimas.
+> 
+> Estas consideraciones son básicas para entender cómo obtener compatibilidad entre los componentes de tu PC y optimizar su rendimiento.
 
 ## Estrategias para Minimizar el CUELLO DE BOTELLA 🚀🔍
 
