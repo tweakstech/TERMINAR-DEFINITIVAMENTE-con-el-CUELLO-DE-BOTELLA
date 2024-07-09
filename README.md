@@ -6,6 +6,14 @@
 
 - Los componentes de un PC trabajan de manera independiente. Lo que hace que funcionen en conjunto son los juegos o aplicaciones. Por ejemplo, a menudo se piensa que un procesador no es soportado por una tarjeta gráfica, pero no es así. Cada componente funciona de manera independiente.
 
+> [!WARNING]
+> 
+> Los componentes, como la CPU y la GPU, tienen funciones distintas que los hacen independientes en teoría. En la práctica, especialmente en juegos, necesitan trabajar juntos para obtener buen rendimiento. Es como un informático que es eficiente pero tiene ayudantes lentos; pero aunque el trabajo en equipo no sea óptimo, no significa que no funcionará, simplemente trabajarán más lentamente y se obtendrá menos rendimiento.
+> 
+> Es importante aclarar esto porque algunas personas confunden independencia con trabajo conjunto, pensando erróneamente que solo funcionan juntos.
+> 
+> Nvidia está avanzando hacia GPUs de gama media-alta que realizan cada vez más tareas por sí mismas, sin pedir ninguna ayuda adicional.
+
 ## Herramientas para Mejorar la Sincronización 🛠️✨
 
 Existen herramientas que ayudan a los componentes a trabajar de manera más eficiente juntos, aunque sigan siendo independientes:
