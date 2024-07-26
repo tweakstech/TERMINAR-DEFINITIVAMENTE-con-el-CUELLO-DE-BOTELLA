@@ -6,14 +6,6 @@
 
 - Los componentes de un PC trabajan de manera independiente. Lo que hace que funcionen en conjunto son los juegos o aplicaciones. Por ejemplo, a menudo se piensa que un procesador no es soportado por una tarjeta gráfica, pero no es así. Cada componente funciona de manera independiente.
 
-> [!WARNING]
-> 
-> Los componentes, como la CPU y la GPU, tienen funciones distintas que los hacen independientes en teoría. En la práctica, especialmente en juegos, necesitan trabajar juntos para obtener buen rendimiento. **Es como un informático que es eficiente pero tiene ayudantes lentos; pero aunque el trabajo en equipo no sea óptimo, no significa que no funcionará, simplemente trabajarán más lentamente y se obtendrá menos rendimiento.**
-> 
-> Es importante aclarar esto porque algunas personas confunden independencia con trabajo conjunto, pensando erróneamente que solo funcionan juntos.
-> 
-> Nvidia está avanzando hacia GPUs de gama media-alta que realizan cada vez más tareas por sí mismas, sin pedir ninguna ayuda adicional.
-
 ## Herramientas para Mejorar la Sincronización 🛠️✨
 
 Existen herramientas que ayudan a los componentes a trabajar de manera más eficiente juntos, aunque sigan siendo independientes:
@@ -68,12 +60,13 @@ Estas herramientas están diseñadas para mejorar la cooperación entre componen
 > - **Características y Conectividad:** Revisa las características detalladas como la cantidad y tipo de puertos USB, HDMI, PCI, entre otros. Asegúrate de que estos puertos sean compatibles con los dispositivos y periféricos que planeas utilizar. Descarta opciones obsoletas como puertos VGA u otros si no los necesitas.
 > - **Frecuencia Máxima de la Memoria:** Verifica la frecuencia máxima de la memoria RAM que la placa base soporta. Esto asegura que puedas aprovechar al máximo el rendimiento de la memoria RAM instalada.
 > - **Ancho de Banda y Tipo de PCI:** Si planeas utilizar una tarjeta gráfica dedicada, verifica que la placa base tenga suficientes ranuras PCI Express (PCIe) y que sean compatibles con la tarjeta gráfica en términos de ancho de banda y tipo. Esto es crucial para garantizar un rendimiento óptimo en aplicaciones gráficamente intensivas.
+> - **Conectores y Actualización de BIOS:** Asegúrate de que la placa base tenga suficientes conectores para ventiladores y puertos USB necesarios. Además, verifica que tenga soporte para la actualización de la BIOS mediante un método fácil y sin problemas de errores.
 > 
 > ### Procesador
 > 
 > - **Compatibilidad con la Placa Base:** Verifica que el procesador sea compatible con el socket de la placa base. El socket es el tipo de conexión física que permite al procesador comunicarse con la placa base y otros componentes.
 > - **Frecuencia y Núcleos:** La frecuencia de reloj y el número de núcleos determinan la velocidad y la capacidad multitarea del procesador. Una frecuencia más alta y más núcleos generalmente significan un rendimiento mejorado, especialmente en tareas que requieren mucho cálculo.
-> - **Consumo de Energía y Refrigeración:** Considera el consumo de energía del procesador y asegúrate de que la fuente de alimentación y la solución de refrigeración sean adecuadas. Algunos procesadores más potentes pueden requerir refrigeración más robusta para mantener temperaturas óptimas de funcionamiento.
+> - **Consumo de Energía y Refrigeración:** Considera el consumo de energía del procesador y asegúrate de que la fuente de alimentación y la solución de refrigeración sean adecuadas. Verifica el TDP (Thermal Design Power) del procesador para elegir una refrigeración adecuada.
 > - **Uso Previsto:** Evalúa para qué tipo de aplicaciones y juegos planeas utilizar el PC. Algunas aplicaciones pueden beneficiarse más de procesadores con alto rendimiento mononúcleo, mientras que otras aprovechan mejor varios núcleos.
 > - **Compatibilidad con la Memoria RAM:** Verifica que el procesador sea compatible con la frecuencia máxima de la memoria RAM soportada por la placa base. Esto garantiza un rendimiento óptimo al aprovechar la velocidad de acceso a la memoria.
 > 
@@ -108,6 +101,10 @@ Estas herramientas están diseñadas para mejorar la cooperación entre componen
 > - Si planeas utilizar refrigeración líquida (tubo o AIO), asegúrate de que haya suficiente espacio disponible.
 > - Considera el tamaño del disipador de calor del procesador y otros componentes que necesiten espacio adicional.
 > - Es recomendable seleccionar el gabinete al final del proceso de selección de componentes para asegurarte de que todo encaje correctamente y que haya un flujo de aire fluido para mantener temperaturas óptimas.
+> 
+> ### Prioridades Adicionales
+> 
+> - **Monitor y Mouse:** Prioriza la selección del monitor y el mouse, ya que son claves para mostrar el resultado de todos los componentes instalados. Asegúrate de que el monitor ofrezca la mejor calidad visual y que el mouse sea cómodo y funcional para tu uso.
 > 
 > Estas consideraciones son básicas para entender cómo obtener compatibilidad entre los componentes de tu PC y optimizar su rendimiento.
 
